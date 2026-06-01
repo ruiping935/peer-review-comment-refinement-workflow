@@ -80,7 +80,8 @@ A complete refined version of the reviewer comments with all AI-generated edits 
 
 List comments that may address similar concerns without combining them.
 
-### Reviewer Comments
+
+## Reviewer Comments
 
 [Paste reviewer comments here]
 
