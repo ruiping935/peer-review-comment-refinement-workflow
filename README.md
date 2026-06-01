@@ -39,6 +39,9 @@ PRCRW provides a structured process for using AI responsibly during peer review.
 
 - Full Protocol: [PRCRW v1.0](protocol/PRCRW_v1.md)
 
+## Prompts
+
+- Operational Prompt: [PRCRW v1.0 Prompt](prompts/PRCRW_v1_Prompt.md)
 ---
 
 ## Current Version
