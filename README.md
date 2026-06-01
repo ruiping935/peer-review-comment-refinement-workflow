@@ -16,7 +16,7 @@ This project promotes responsible human-AI collaboration in peer review by empha
 
 ## Why PRCRW?
 
-Reviewers often provide valuable feedback but may not have time to refine wording, organization, or tone.
+Peer reviewers typically begin by drafting their own comments based on their evaluation of a manuscript. These initial comments often contain valuable insights, critiques, and suggestions but may not be fully refined in terms of wording, organization, or tone.
 
 Generative AI can assist with these tasks, but it may also unintentionally alter reviewer meaning.
 
