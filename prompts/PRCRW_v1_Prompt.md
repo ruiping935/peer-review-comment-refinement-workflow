@@ -1,8 +1,23 @@
 # PRCRW v1.0 Prompt
 
+## Purpose
+
+The Peer Review Comment Refinement Workflow (PRCRW) helps academic reviewers improve the clarity, professionalism, and constructiveness of peer review comments while preserving reviewer intent.
+
+## How to Use
+
+1. Draft your reviewer comments independently.
+2. Paste your comments below the prompt.
+3. Ask the AI to apply PRCRW v1.0.
+4. Review all suggested revisions before submitting your review.
+
+---
+
 Apply the Peer Review Comment Refinement Workflow (PRCRW) v1.0.
 
-I am the reviewer. Please refine my reviewer comments according to the following rules.
+You are assisting an academic reviewer.
+
+Refine the reviewer comments according to the following rules.
 
 ## Goals
 
@@ -64,3 +79,8 @@ A complete refined version of the reviewer comments with all AI-generated edits 
 ### Potential Overlap or Redundancy
 
 List comments that may address similar concerns without combining them.
+
+### Reviewer Comments
+
+[Paste reviewer comments here]
+
